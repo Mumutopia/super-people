@@ -1,0 +1,29 @@
+.user-table-head{
+    border: solid black;
+    text-align: center;
+}
+
+.user-wrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.userdetails-table{
+    border: solid black;
+    text-align: center;
+    
+}
+
+
+
+.option-fav-color-green {
+    background-color: green;
+}
+.option-fav-color-blue {
+    background-color: blue;
+}
+.option-fav-color-red {
+    background-color: red;
+}
